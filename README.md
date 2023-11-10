@@ -6,4 +6,4 @@ start for assignmrent 3
  npm install 
  npm start 
  ```
-[Edit here]-(https://diy-pwa.dev/~/gh/ravreet27/coming-soon)
+[Edit here](https://diy-pwa.dev/~/gh/ravreet27/coming-soon)
